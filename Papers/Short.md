@@ -1,6 +1,6 @@
-Deep Learning Evolution
+## Deep Learning Evolution
 
-Alexnet 2012
+### Alexnet 2012
 - First Convolutional
 - Techniques
   * Data augmentation (Regularization)
@@ -17,7 +17,7 @@ Alexnet 2012
     * **Solution**: Use of convolution layers
 
 
-VGG 2014
+### VGG 2014
 - Very deep + small receptive fields
 - Techniques
   * L2 regularization
@@ -34,7 +34,7 @@ VGG 2014
     * **Solution**: Use of smaller receptive fields
 
   
-Resnet 2015
+### Resnet 2015
 - Ultra deep + residual functions
 - Techniques
   * Learning annealing 0.1 -> 0.001 (when error plateaus)
@@ -62,7 +62,7 @@ Resnet 2015
     * **Solution**: Residual Functions
 
 
-Notes
+### Notes
 1. Techniques: Permanent general improvements
 1. Specific Arch Details: Temporal specific improvements
 1. ILSVRC: Imagenet Large scale visual recognition challenge

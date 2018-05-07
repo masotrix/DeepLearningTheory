@@ -60,6 +60,8 @@
 - Problems solved
   * Degradation due exponentially low convergence rates
     * **Solution**: Residual Functions
+  * Increased complexity
+    * **Solution**: Bottleneck design
 
 
 ### Notes

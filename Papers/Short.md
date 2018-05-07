@@ -56,7 +56,7 @@
   * (152 wlayers)
   * 256 minibatch
 - Results:
-  * ILSVRC-2015: 3.6% top-5,
+  * ILSVRC-2015: 3.6% top-5, 19.8% top-1
 - Problems solved
   * Degradation due exponentially low convergence rates
     * **Solution**: Residual Functions
